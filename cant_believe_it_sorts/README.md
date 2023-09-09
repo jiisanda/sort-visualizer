@@ -1,4 +1,4 @@
-# I can't believe it sorts
+# can't believe it sorts
 
 - Python Implementation for: https://arxiv.org/abs/2110.01111
 - Stanley P. Y. Fung presents an incredibly simple sorting algorithm.
